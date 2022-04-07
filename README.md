@@ -2,7 +2,7 @@
 # Simple CV
 
 Welcome,
-This is a simple cv for the basic understanding of html and css.
+This is a simple cv for the basic understanding of html.
 
 Author: Ashwini Pote
 
